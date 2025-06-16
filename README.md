@@ -1,4 +1,5 @@
-# INSTRUÇÕES
+# JOGO DA MEMÓRIA
+## INSTRUÇÕES
 ### Para compilar:
 ```bash
 clang -Wall jogoMemoria.c -o jogo -pthread
