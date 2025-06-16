@@ -1,5 +1,7 @@
-#include <unistd.h>   // para fork(), pipe(), read(), write(), close()
-#include <sys/types.h> // para pid_t
+// COMANDO PARA COMPILAR:  clang -Wall jogoMemoria.c -o jogo -pthread
+// COMANDO PARA RODAR: ./jogo
+#include <unistd.h>   
+#include <sys/types.h> 
 #include <string.h>
 #include <pthread.h>
 #include "logicaJogoMemoria.c"
