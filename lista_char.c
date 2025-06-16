@@ -1,3 +1,10 @@
+/*
+31/01/2025
+https://github.com/HenriqueLopes-dev/C_projects/blob/main/lista_char.c
+
+Lista e funcoes genericas de lista (baseado nos metodos de listas em python)
+Algumas mudancas foram feitas para o funcionamento do jogo
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
